@@ -20,6 +20,6 @@ MissionCard.propTypes = {
   year: propTypes.string.isRequired,
   country: propTypes.string.isRequired,
   destination: propTypes.string.isRequired,
-}
+};
 
 export default MissionCard;
